@@ -1327,6 +1327,126 @@
         "id": "tag_43",
         "text": "放心吧博士，材质尤其是墙壁都特别做过处理，即使发生爆炸也不会塌，你永远可以相信我的工程水平！"
       }
+    },
+    {
+      "tagId": "tag_45",
+      "displayType": "block_1",
+      "tagName": "罗德厨房",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1592467200,
+      "endDatetime": 1593633599,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag45_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_45",
+        "text": "其实食堂现在在举办活动，有吃有喝还能拿奖，这次的夺冠热门是这三个人，你觉得最后谁能赢？"
+      }
+    },
+    {
+      "tagId": "tag_46",
+      "displayType": "block_1",
+      "tagName": "乌萨斯学生活动室",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1592467200,
+      "endDatetime": 1593633599,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag46_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "community_2020",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_46",
+        "text": "她们急急忙忙复原了学校的房间，是想要怀旧吗？想必都是很美好的回忆吧。"
+      }
+    },
+    {
+      "tagId": "tag_47",
+      "displayType": "block_1",
+      "tagName": "时代",
+      "itemTag": "DEADLINE",
+      "orderNum": 1,
+      "startDatetime": 1594267200,
+      "endDatetime": 1595447999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag47_a",
+              "slotIndex": 0,
+              "cmd": "SKINSHOP",
+              "param1": null,
+              "param2": null,
+              "skinId": null
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_47",
+        "text": "这些衣服都是设计师不考虑预算给干员们制作的精品，下次采购部也尝试一下不考虑成本进行采购吧——还是算了，凯尔希会生气的。"
+      }
+    },
+    {
+      "tagId": "tag_48",
+      "displayType": "block_1",
+      "tagName": "莱塔尼亚之夜",
+      "itemTag": "DEADLINE",
+      "orderNum": 2,
+      "startDatetime": 1594267200,
+      "endDatetime": 1595447999,
+      "groupList": [
+        {
+          "recommendGroup": [
+            1
+          ],
+          "dataList": [
+            {
+              "imgId": "tag48_a",
+              "slotIndex": 0,
+              "cmd": "FURNSHOP",
+              "param1": "nightView_2020",
+              "param2": null,
+              "skinId": ""
+            }
+          ]
+        }
+      ],
+      "tagWord": {
+        "id": "tag_48",
+        "text": "能看这片夜景的房子在当地可是要价几十万莱塔尼亚货币的，这里呢，只要稍微花费点资金就可以实现哦。"
+      }
     }
   ],
   "creditUnlockGroup": {
@@ -2121,6 +2241,78 @@
     {
       "items": [
         {
+          "spriteId": "shop_mgllan_kitchen#1",
+          "startTime": 1592467200,
+          "endTime": 1593633599,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_248_mgllan@kitchen#1",
+          "skinId": "char_248_mgllan@kitchen#1"
+        },
+        {
+          "spriteId": "shop_glassb_kitchen#1",
+          "startTime": 1592467200,
+          "endTime": 1593633599,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_195_glassb@kitchen#1",
+          "skinId": "char_195_glassb@kitchen#1"
+        },
+        {
+          "spriteId": "shop_brownb_kitchen#1",
+          "startTime": 1592467200,
+          "endTime": 1593633599,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_137_brownb@kitchen#1",
+          "skinId": "char_137_brownb@kitchen#1"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_community_2020",
+          "startTime": 1592467200,
+          "endTime": 1593633599,
+          "cmd": "FURNSHOP",
+          "param1": "community_2020",
+          "skinId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_mostma_epoque#5",
+          "startTime": 1594267200,
+          "endTime": 1595447999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_213_mostma@epoque#5",
+          "skinId": "char_213_mostma@epoque#5"
+        },
+        {
+          "spriteId": "shop_astesi_epoque#5",
+          "startTime": 1594267200,
+          "endTime": 1595447999,
+          "cmd": "SKINSHOP",
+          "param1": "SS_char_274_astesi@epoque#5",
+          "skinId": "char_274_astesi@epoque#5"
+        }
+      ]
+    },
+    {
+      "items": [
+        {
+          "spriteId": "shop_nightView_2020",
+          "startTime": 1594267200,
+          "endTime": 1595447999,
+          "cmd": "FURNSHOP",
+          "param1": "nightView_2020",
+          "skinId": ""
+        }
+      ]
+    },
+    {
+      "items": [
+        {
           "spriteId": "shop1",
           "startTime": 1548727200,
           "endTime": 1924891199,
@@ -2179,6 +2371,19 @@
     "GP_gW_81_W_1": "ALWAYS_UNLOCK",
     "GP_gW_82_W_1": "ALWAYS_UNLOCK",
     "GP_gW_83_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_84_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_85_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_86_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_87_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_88_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_89_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_90_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_91_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_92_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_93_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_94_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_95_W_1": "ALWAYS_UNLOCK",
+    "GP_gW_96_W_1": "ALWAYS_UNLOCK",
     "GP_freeL_5": "ALWAYS_UNLOCK",
     "GP_freeL_10": "ALWAYS_UNLOCK",
     "GP_freeL_15": "ALWAYS_UNLOCK",

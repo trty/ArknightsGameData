@@ -6394,6 +6394,252 @@
       ],
       "backImagePath": null
     },
+    "sub_162": {
+      "id": "sub_162",
+      "sortId": 162,
+      "description": "Clear Main StorylineS6-2 stages 1 time(s)",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "sub_06-1-2",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_51",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 12
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_163": {
+      "id": "sub_163",
+      "sortId": 163,
+      "description": "Reach 5000 Ambience in at least 2 dorms",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "DiyComfort",
+      "templateType": "0",
+      "param": [
+        "0",
+        "2",
+        "5000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_52",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_164": {
+      "id": "sub_164",
+      "sortId": 164,
+      "description": "Total Ambience of all Dormitories reaches 15000",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "DiyComfort",
+      "templateType": "1",
+      "param": [
+        "1",
+        "15000"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_52",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 100
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_165": {
+      "id": "sub_165",
+      "sortId": 165,
+      "description": "Clear Main StorylineS6-4 stages 1 time(s)",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "sub_06-2-2",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_53",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 12
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_166": {
+      "id": "sub_166",
+      "sortId": 166,
+      "description": "Promote 4 Operators to Elite 2",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "EvolveChar",
+      "templateType": "1",
+      "param": [
+        "1",
+        "4",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_54",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 15000
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_167": {
+      "id": "sub_167",
+      "sortId": 167,
+      "description": "Clear Challenge Mode 5-3 one time",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "main_05-03#f#",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_55",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_168": {
+      "id": "sub_168",
+      "sortId": 168,
+      "description": "Clear Challenge Mode 5-7 one time",
+      "type": "SUB",
+      "preMissionIds": [
+        "sub_167"
+      ],
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "main_05-07#f#",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_55",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_169": {
+      "id": "sub_169",
+      "sortId": 169,
+      "description": "Clear Challenge Mode 5-10 one time",
+      "type": "SUB",
+      "preMissionIds": [
+        "sub_168"
+      ],
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "main_05-10#f#",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_55",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "3401",
+          "count": 50
+        }
+      ],
+      "backImagePath": null
+    },
+    "sub_170": {
+      "id": "sub_170",
+      "sortId": 170,
+      "description": "Clear Inferno Mode H5-4 one time",
+      "type": "SUB",
+      "preMissionIds": null,
+      "template": "CompleteStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "hard_05-04",
+        "1"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "sub_g_56",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 12
+        }
+      ],
+      "backImagePath": null
+    },
     "main_1": {
       "id": "main_1",
       "sortId": 0,
@@ -7637,6 +7883,111 @@
         }
       ],
       "backImagePath": "Arts/UI/MainMission/main_5"
+    },
+    "main_47": {
+      "id": "main_47",
+      "sortId": 0,
+      "description": "Clear Main Storyline6-5",
+      "type": "MAIN",
+      "preMissionIds": null,
+      "template": "CompleteMainStage",
+      "templateType": "1",
+      "param": [
+        "1",
+        "main_06-05"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "main_47",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "CARD_EXP",
+          "id": "2003",
+          "count": 10
+        }
+      ],
+      "backImagePath": "Arts/UI/MainMission/main_6"
+    },
+    "main_48": {
+      "id": "main_48",
+      "sortId": 0,
+      "description": "Complete a 5-Difficulty Supplies stage with 3 stars",
+      "type": "MAIN",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "wk_melee_5^wk_armor_5^wk_kc_5^wk_toxic_5^wk_fly_5",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "main_48",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 12000
+        }
+      ],
+      "backImagePath": "Arts/UI/MainMission/main_6"
+    },
+    "main_49": {
+      "id": "main_49",
+      "sortId": 0,
+      "description": "Clear Main Storyline6-11",
+      "type": "MAIN",
+      "preMissionIds": null,
+      "template": "CompleteMainStage",
+      "templateType": "1",
+      "param": [
+        "1",
+        "main_06-10"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "main_49",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "TKT_RECRUIT",
+          "id": "7001",
+          "count": 5
+        }
+      ],
+      "backImagePath": "Arts/UI/MainMission/main_6"
+    },
+    "main_50": {
+      "id": "main_50",
+      "sortId": 0,
+      "description": "Clear Main Storyline6-16",
+      "type": "MAIN",
+      "preMissionIds": null,
+      "template": "CompleteMainStage",
+      "templateType": "1",
+      "param": [
+        "1",
+        "main_06-14"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "main_50",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "GOLD",
+          "id": "4001",
+          "count": 15000
+        }
+      ],
+      "backImagePath": "Arts/UI/MainMission/main_6"
     },
     "daily_101": {
       "id": "daily_101",
@@ -10116,7 +10467,7 @@
     "daily_801": {
       "id": "daily_801",
       "sortId": 801,
-      "description": "Clear any Main Story stage 1 time(s)",
+      "description": "Clear any stage 1 time (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "CompleteStageOrCampaign",
@@ -10136,7 +10487,7 @@
     "daily_802": {
       "id": "daily_802",
       "sortId": 802,
-      "description": "Clear any Main Story stage 3 time(s)",
+      "description": "Clear any stage 3 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_801"
@@ -10158,7 +10509,7 @@
     "daily_803": {
       "id": "daily_803",
       "sortId": 803,
-      "description": "Clear any Main Story stage 5 time(s)",
+      "description": "Clear any stage 5 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_802"
@@ -10180,7 +10531,7 @@
     "daily_804": {
       "id": "daily_804",
       "sortId": 804,
-      "description": "Clear any Main Story stage 8 time(s)",
+      "description": "Clear any stage 8 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_803"
@@ -10244,7 +10595,7 @@
     "daily_807": {
       "id": "daily_807",
       "sortId": 807,
-      "description": "Defeat a total of 200 enemies",
+      "description": "Defeat a total of 200 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithEnemyKill",
@@ -10264,7 +10615,7 @@
     "daily_808": {
       "id": "daily_808",
       "sortId": 808,
-      "description": "Defeat a total of 400 enemies",
+      "description": "Defeat a total of 400 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_807"
@@ -10286,7 +10637,7 @@
     "daily_809": {
       "id": "daily_809",
       "sortId": 809,
-      "description": "Defeat a total of 600 enemies",
+      "description": "Defeat a total of 600 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_808"
@@ -10308,7 +10659,7 @@
     "daily_810": {
       "id": "daily_810",
       "sortId": 810,
-      "description": "Clear any stage using a Support Unit 1 times",
+      "description": "Clear any stage using a Support Unit 1 time(s) (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -10513,7 +10864,7 @@
     "daily_901": {
       "id": "daily_901",
       "sortId": 901,
-      "description": "Clear any Main Story stage 1 time(s)",
+      "description": "Clear any stage 1 time (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "CompleteStageOrCampaign",
@@ -10533,7 +10884,7 @@
     "daily_902": {
       "id": "daily_902",
       "sortId": 902,
-      "description": "Clear any Main Story stage 3 time(s)",
+      "description": "Clear any stage 3 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_901"
@@ -10555,7 +10906,7 @@
     "daily_903": {
       "id": "daily_903",
       "sortId": 903,
-      "description": "Clear any Main Story stage 5 time(s)",
+      "description": "Clear any stage 5 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_902"
@@ -10577,7 +10928,7 @@
     "daily_904": {
       "id": "daily_904",
       "sortId": 904,
-      "description": "Clear any Main Story stage 8 time(s)",
+      "description": "Clear any stage 8 times (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_903"
@@ -10641,7 +10992,7 @@
     "daily_907": {
       "id": "daily_907",
       "sortId": 907,
-      "description": "Defeat a total of 200 enemies",
+      "description": "Defeat a total of 200 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithEnemyKill",
@@ -10661,7 +11012,7 @@
     "daily_908": {
       "id": "daily_908",
       "sortId": 908,
-      "description": "Defeat a total of 400 enemies",
+      "description": "Defeat a total of 400 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_907"
@@ -10683,7 +11034,7 @@
     "daily_909": {
       "id": "daily_909",
       "sortId": 909,
-      "description": "Defeat a total of 600 enemies",
+      "description": "Defeat a total of 600 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": [
         "daily_908"
@@ -10705,7 +11056,7 @@
     "daily_910": {
       "id": "daily_910",
       "sortId": 910,
-      "description": "Clear any stage using a Support Unit 1 times",
+      "description": "Clear any stage using a Support Unit 1 time(s) (excluding Contingency Contract stages)",
       "type": "DAILY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -10910,7 +11261,7 @@
     "weekly_101": {
       "id": "weekly_101",
       "sortId": 101,
-      "description": "Clear any Main Story stage 10 time(s)",
+      "description": "Clear any stage 10 times (excluding Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "CompleteStageOrCampaign",
@@ -10930,7 +11281,7 @@
     "weekly_102": {
       "id": "weekly_102",
       "sortId": 102,
-      "description": "Clear any Main Story stage 20 time(s)",
+      "description": "Clear any stage 20 times (excluding Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_101"
@@ -10952,7 +11303,7 @@
     "weekly_103": {
       "id": "weekly_103",
       "sortId": 103,
-      "description": "Clear any Main Story stage 30 time(s)",
+      "description": "Clear any stage 30 times (excluding Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_102"
@@ -10974,7 +11325,7 @@
     "weekly_104": {
       "id": "weekly_104",
       "sortId": 104,
-      "description": "Clear any Main Story stage 50 time(s)",
+      "description": "Clear any stage 50 times (excluding Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_103"
@@ -11016,7 +11367,7 @@
     "weekly_106": {
       "id": "weekly_106",
       "sortId": 106,
-      "description": "Defeat a total of 1000 enemies",
+      "description": "Defeat a total of 1000 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "StageWithEnemyKill",
@@ -11036,7 +11387,7 @@
     "weekly_107": {
       "id": "weekly_107",
       "sortId": 107,
-      "description": "Defeat a total of 2000 enemies",
+      "description": "Defeat a total of 2000 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_106"
@@ -11058,7 +11409,7 @@
     "weekly_108": {
       "id": "weekly_108",
       "sortId": 108,
-      "description": "Defeat a total of 3000 enemies",
+      "description": "Defeat a total of 3000 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_107"
@@ -11080,7 +11431,7 @@
     "weekly_109": {
       "id": "weekly_109",
       "sortId": 109,
-      "description": "Defeat a total of 5000 enemies",
+      "description": "Defeat a total of 5000 enemies (excluding enemies defeated in Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": [
         "weekly_108"
@@ -11102,7 +11453,7 @@
     "weekly_110": {
       "id": "weekly_110",
       "sortId": 110,
-      "description": "Clear any stage 5 times while using friends' Support Units",
+      "description": "Clear any stage 5 times while using friends' Support Units (excluding Contingency Contract stages)",
       "type": "WEEKLY",
       "preMissionIds": null,
       "template": "StageWithAssistChar",
@@ -12321,6 +12672,87 @@
       "startTs": -1,
       "endTs": -1
     },
+    "sub_g_51": {
+      "id": "sub_g_51",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_46",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_162"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_52": {
+      "id": "sub_g_52",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_47",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_163",
+        "sub_164"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_53": {
+      "id": "sub_g_53",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_47",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_165"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_54": {
+      "id": "sub_g_54",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_49",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_166"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_55": {
+      "id": "sub_g_55",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_49",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_167",
+        "sub_168",
+        "sub_169"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "sub_g_56": {
+      "id": "sub_g_56",
+      "title": null,
+      "type": "SUB",
+      "preMissionGroup": "main_49",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "sub_170"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
     "main_1": {
       "id": "main_1",
       "title": null,
@@ -12915,6 +13347,58 @@
       "rewards": null,
       "missionIds": [
         "main_46"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "main_47": {
+      "id": "main_47",
+      "title": null,
+      "type": "MAIN",
+      "preMissionGroup": "main_46",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "main_47"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "main_48": {
+      "id": "main_48",
+      "title": null,
+      "type": "MAIN",
+      "preMissionGroup": "main_47",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "main_48"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "main_49": {
+      "id": "main_49",
+      "title": null,
+      "type": "MAIN",
+      "preMissionGroup": "main_48",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "main_49"
+      ],
+      "startTs": -1,
+      "endTs": -1
+    },
+    "main_50": {
+      "id": "main_50",
+      "title": null,
+      "type": "MAIN",
+      "preMissionGroup": "main_49",
+      "period": null,
+      "rewards": null,
+      "missionIds": [
+        "main_50"
       ],
       "startTs": -1,
       "endTs": -1
